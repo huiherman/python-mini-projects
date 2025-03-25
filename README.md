@@ -37,6 +37,8 @@ This repository contains 4 Python mini-projects in automation, data analysis, an
 - Uses: `pandas`, `matplotlib`, `seaborn`
 - Used for: Preprocessing and visual storytelling
 
+- ![image](https://github.com/user-attachments/assets/6d21a8f4-676d-4f79-bcc6-e06b1846f2b4)
+
 ---
 
 ## How to Run
