@@ -29,6 +29,8 @@ This repository contains 4 Python mini-projects in automation, data analysis, an
 - Uses: `streamlit`, `pandas`
 - Used for: Building web dashboards for non-technical users
 
+- ![image](https://github.com/user-attachments/assets/6d21a8f4-676d-4f79-bcc6-e06b1846f2b4)
+
 ---
 
 ### 4. Data Cleaning & Visualization
@@ -37,8 +39,7 @@ This repository contains 4 Python mini-projects in automation, data analysis, an
 - Uses: `pandas`, `matplotlib`, `seaborn`
 - Used for: Preprocessing and visual storytelling
 
-- ![image](https://github.com/user-attachments/assets/6d21a8f4-676d-4f79-bcc6-e06b1846f2b4)
-
+- ![image](https://github.com/user-attachments/assets/999be898-96c0-4883-be02-8009cd1d26d5)
 ---
 
 ## How to Run
